@@ -1,7 +1,8 @@
 # lossless compression on file with tiff extension
  Bu proje, TIFF (Tagged Image File Format) uzantılı bir görüntüyü kaypsız sıkıştırma yöntemleri kullanarak optimize etmeyi amaçlamaktadır. TIFF formatı, yüksek kaliteli görüntüleri saklamak için yaygın olarak kullanılır ve kayıpsız sıkıştırma seçenekleri sunar. Bu projede, LZW (Lempel–Ziv–Welch) algoritması kullanılarak görüntü sıkıştırma işlemi gerçekleştirilmiştir.
+
 Kayıpsız Sıkıştırma: Görüntünün herhangi bir kalite kaybı olmaksızın boyutunun azaltıldığı
- sıkıştırmadır. 
+sıkıştırmadır. 
 
 Kullanılan Formatlar ve Yöntemler
 
